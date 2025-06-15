@@ -1,0 +1,1658 @@
+[
+  {
+    "name": "acetylated monoglycerides",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Acetylated Monoglycerides",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "acidophilus",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Acidophilus",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "acid whey",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Acid Whey",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "albumen",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Albumen",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "albumin",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Albumin",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "alcohol",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Alcohol",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "ammonium",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Ammonium",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "ammonium caseinate",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Ammonium Caseinate",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "amf",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Amf",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "amg",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Amg",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "anhydrous milk fat",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Anhydrous Milk Fat",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "artificial butter",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Artificial Butter",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "artificial butter flavor",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Artificial Butter Flavor",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "artificial butter flavour",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Artificial Butter Flavour",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "artificial colour",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Artificial Colour",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "artificial color",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Artificial Color",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "artificial flavor",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Artificial Flavor",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "artificial flavour",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Artificial Flavour",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "aspic",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Aspic",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "beef",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Beef",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "beer",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Beer",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "beta lactoglobulin",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Beta Lactoglobulin",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "binders",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Binders",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "bologna",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Bologna",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "butter",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Butter",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "butter extract",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Butter Extract",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "butter fat",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Butter Fat",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "butter flavoured oil",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Butter Flavoured Oil",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "butter flavored oil",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Butter Flavored Oil",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "butter oil",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Butter Oil",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "butter solids",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Butter Solids",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "buttermilk",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Buttermilk",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "buttermilk blend",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Buttermilk Blend",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "buttermilk powder",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Buttermilk Powder",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "buttermilk solids",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Buttermilk Solids",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "calcium",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Calcium",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "calcium caseinate",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Calcium Caseinate",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "casein",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Casein",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "casein hydrolysates",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Casein Hydrolysates",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "casein hydrolyzed",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Casein Hydrolyzed",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "caseinate",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Caseinate",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "capsules containing bovine gelatin",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Capsules Containing Bovine Gelatin",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "caramel",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Caramel",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "caramel colour",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Caramel Colour",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "caramel color",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Caramel Color",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "caramel flavour",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Caramel Flavour",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "caramel flavor",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Caramel Flavor",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "cheese",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Cheese",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "cheese flavour",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Cheese Flavour",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "cheese flavor",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Cheese Flavor",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "cheese food",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Cheese Food",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "chocolate",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Chocolate",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "cochineal red dye",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Cochineal Red Dye",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "color",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Color",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "colour",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Colour",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "condensed milk",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Condensed Milk",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "cottage cheese",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Cottage Cheese",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "cream",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Cream",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "cream cheese",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Cream Cheese",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "creamers with dairy binders",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Creamers With Dairy Binders",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "cultured milk",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Cultured Milk",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "curd",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Curd",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "curd whey",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Curd Whey",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "custard",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Custard",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "dairy products",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Dairy Products",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "dairy product solids",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Dairy Product Solids",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "dairy butter",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Dairy Butter",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "delactosed whey",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Delactosed Whey",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "demineralized whey",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Demineralized Whey",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "derivative milk",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Derivative Milk",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "diacetyl",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Diacetyl",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "dms",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Dms",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "dried milk",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Dried Milk",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "dried milk solids",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Dried Milk Solids",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "dry milk",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Dry Milk",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "dry milk powder",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Dry Milk Powder",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "dry milk solids",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Dry Milk Solids",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "e270 lactic acid",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "E270 Lactic Acid",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "enriched flour",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Enriched Flour",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "evaporated milk",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Evaporated Milk",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "fat free milk",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Fat Free Milk",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "fat replacer opta",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Fat Replacer Opta",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "flavoring",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Flavoring",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "flavouring",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Flavouring",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "flavored drinks",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Flavored Drinks",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "flavoured drinks",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Flavoured Drinks",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "fully cream milk powder",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Fully Cream Milk Powder",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "galactose",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Galactose",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "ghee",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Ghee",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "gelatin",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Gelatin",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "gelatine",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Gelatine",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "goat cheese",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Goat Cheese",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "goat milk",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Goat Milk",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "half & half",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Half & Half",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "high protein flour",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "High Protein Flour",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "hot chocolate mixes",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Hot Chocolate Mixes",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "hot dogs",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Hot Dogs",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "hydrolyzed casein",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Hydrolyzed Casein",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "hydrolyzed milk protein",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Hydrolyzed Milk Protein",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "hydrolyzed whey",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Hydrolyzed Whey",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "ice cream",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Ice Cream",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "ice milk",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Ice Milk",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "imitation cheese",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Imitation Cheese",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "imitation sour cream",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Imitation Sour Cream",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "iron caseinate",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Iron Caseinate",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "kefir",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Kefir",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "kourmiss",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Kourmiss",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "lactaglobulin",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Lactaglobulin",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "lactalbumin",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Lactalbumin",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "lactalbumin phosphate",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Lactalbumin Phosphate",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "lactaid milk",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Lactaid Milk",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "lactate",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Lactate",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "lactate solids",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Lactate Solids",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "lactic acid e270",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Lactic Acid E270",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "lactic yeast",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Lactic Yeast",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "lactitol monohydrate",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Lactitol Monohydrate",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "lactoferrin",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Lactoferrin",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "lactose",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Lactose",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "lactose containing drinks",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Lactose Containing Drinks",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "lactose free milk",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Lactose Free Milk",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "lactulose",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Lactulose",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "lactulose free milk",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Lactulose Free Milk",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "lanolin",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Lanolin",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "lard if not pure lard",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Lard If Not Pure Lard",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "magnesium lactate",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Magnesium Lactate",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "maleates",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Maleates",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "marshmallow",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Marshmallow",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "malted milk",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Malted Milk",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "milk derivative",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Milk Derivative",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "milk fat",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Milk Fat",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "mpc",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Mpc",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "milk protein",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Milk Protein",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "milk protein concentrate mpc",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Milk Protein Concentrate Mpc",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "milk solids",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Milk Solids",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "monoglycerides",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Monoglycerides",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "natural coloring",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Natural Coloring",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "natural colouring",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Natural Colouring",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "natural flavoring",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Natural Flavoring",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "natural flavouring",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Natural Flavouring",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "natural flavours",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Natural Flavours",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "natural flavors",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Natural Flavors",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "nitrates",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Nitrates",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "nougat",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Nougat",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "opta fat replacer",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Opta Fat Replacer",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "modified milk ingredients",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Modified Milk Ingredients",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "paneer",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Paneer",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "pepperoni",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Pepperoni",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "powdered milk",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Powdered Milk",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "prescription capsules bovine",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Prescription Capsules Bovine",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "processed cheese",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Processed Cheese",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "processed meats",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Processed Meats",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "recaldent",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Recaldent",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "rennet casein",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Rennet Casein",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "salami",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Salami",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "salt",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Salt",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "sapp",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Sapp",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "sherbet",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Sherbet",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "simplesse fat replacer",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Simplesse Fat Replacer",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "skim milk",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Skim Milk",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "soda pop with caramel colouring",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Soda Pop With Caramel Colouring",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "sodium acid pyrophosphate",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Sodium Acid Pyrophosphate",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "sodium caseinate",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Sodium Caseinate",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "sodium stearoyl2lactylate",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Sodium Stearoyl2Lactylate",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "sour cream",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Sour Cream",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "sour milk solids",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Sour Milk Solids",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "spice",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Spice",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "spices",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Spices",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "stearates",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Stearates",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "stearic acid",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Stearic Acid",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "suet",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Suet",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "sulfites",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Sulfites",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "sulphites",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Sulphites",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "tagatose",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Tagatose",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "tallow",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Tallow",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "whey",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Whey",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "whey protein concentrates wpc",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Whey Protein Concentrates Wpc",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "whey protein isolates wpi",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Whey Protein Isolates Wpi",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "wine red",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Wine Red",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "wine white",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Wine White",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "wool fat",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Wool Fat",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "wpc",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Wpc",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "wpi",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Wpi",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "yogurt",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Yogurt",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  },
+  {
+    "name": "zinc caseinate",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Zinc Caseinate",
+    "description": "Known dairy- or bovine-derived ingredient that may trigger acne via Neu5Gc immune response.",
+    "symptom_pattern": "Face and upper body breakouts; responsive to antihistamines like Benadryl."
+  }
+]

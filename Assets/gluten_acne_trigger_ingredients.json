@@ -1,0 +1,407 @@
+[
+  {
+    "name": "wheat",
+    "category": "Gluten",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Wheat",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "spelt",
+    "category": "Gluten",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Spelt",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "kamut",
+    "category": "Gluten",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Kamut",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "farro",
+    "category": "Gluten",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Farro",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "einkorn",
+    "category": "Gluten",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Einkorn",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "emmer",
+    "category": "Gluten",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Emmer",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "barley",
+    "category": "Gluten",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Barley",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "rye",
+    "category": "Gluten",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Rye",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "triticale",
+    "category": "Gluten",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Triticale",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "malt",
+    "category": "Gluten",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Malt",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "malt extract",
+    "category": "Gluten",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Malt Extract",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "malt flavoring",
+    "category": "Gluten",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Malt Flavoring",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "malt syrup",
+    "category": "Gluten",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Malt Syrup",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "brewer\u2019s yeast",
+    "category": "Gluten",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Brewer\u2019S Yeast",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "wheat germ",
+    "category": "Gluten",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Wheat Germ",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "wheat starch",
+    "category": "Gluten",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Wheat Starch",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "seitan",
+    "category": "Gluten",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Seitan",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "modified food starch",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Modified Food Starch",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "dextrin",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Dextrin",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "caramel color",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Caramel Color",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "soy sauce",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Soy Sauce",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "hydrolyzed vegetable protein",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Hydrolyzed Vegetable Protein",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "hydrolyzed plant protein",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Hydrolyzed Plant Protein",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "maltodextrin",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Maltodextrin",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "natural flavoring",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Natural Flavoring",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "artificial flavoring",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Artificial Flavoring",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "coloring agents",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Coloring Agents",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "glucose syrup",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Glucose Syrup",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "pre-gelatinized starch",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Pre-Gelatinized Starch",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "graham flour",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Graham Flour",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "starch",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Starch",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "vitamin e",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Vitamin E",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "dextrans",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Dextrans",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "dextrates",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Dextrates",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "capsule coatings",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Capsule Coatings",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "tablet coatings",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Tablet Coatings",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "malt extract",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Malt Extract",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "wheat starch (medication)",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Wheat Starch (Medication)",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "triticum aestivum",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Triticum Aestivum",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "hordeum vulgare",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Hordeum Vulgare",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "secale cereale",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Secale Cereale",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "farina",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Farina",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "semolina",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Semolina",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "durum",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Durum",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  },
+  {
+    "name": "couscous",
+    "category": "Gluten",
+    "severity": "Medium",
+    "alias_of": null,
+    "visible_name": "Couscous",
+    "description": "Known gluten-containing or cross-contaminated ingredient. Avoid for celiac, gluten sensitivity, or acne triggers.",
+    "symptom_pattern": "Scattered, rogue lesions on arms, legs, and trunk; longer-lasting than dairy-based acne."
+  }
+]
