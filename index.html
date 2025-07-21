@@ -2,70 +2,187 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>AcnErase: Free Acne Trigger Scanner App for Food & Skincare</title>
-  <meta name="description" content="AcnErase is a free educational app that helps users identify acne-triggering ingredients in food and skincare by scanning labels. Based on years of personal research, it empowers users with ingredient awareness to support clearer skin.">
+  <meta name="description" content="AcnErase is a free, privacy-first app that helps users identify acne-triggering ingredients like Neu5Gc, dairy, and gluten by scanning food and skincare labels." />
+  <meta name="keywords" content="acne, acne triggers, Neu5Gc, gluten, dairy, food scanner, skincare, acne app, AcnErase" />
+  <meta name="author" content="Martin Hamer" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="AcnErase – Clearer Skin Through Knowledge" />
+  <meta property="og:description" content="Scan food and skincare labels for acne-triggering ingredients like Neu5Gc, dairy, and gluten. Free and privacy-first." />
+  <meta property="og:image" content="https://acnerase.ca/preview.jpg" />
+  <meta property="og:url" content="https://acnerase.ca" />
+  <meta property="og:type" content="website" />
+
+  <link rel="icon" href="/favicon.ico" />
+
   <style>
-    body {
+    /* Reset and base */
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
       background-color: #000;
       color: #ddd;
       font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
       line-height: 1.6;
     }
+
+    .wrapper {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
     header {
       background-color: #111;
       padding: 20px;
       text-align: center;
     }
+
     header h1 {
       color: #FFD700;
       margin: 0;
       font-size: 2.5em;
     }
-    main {
-      padding: 20px;
+
+    header p {
+      color: #eee;
+      margin-top: 6px;
+      font-size: 1.2em;
     }
+
+    main {
+      flex: 1;
+      max-width: 800px;
+      margin: 20px auto;
+      background: #111;
+      padding: 25px 30px;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(255, 215, 0, 0.25);
+    }
+
     h2 {
       color: #FFD700;
+      margin-top: 1.2em;
+      margin-bottom: 0.5em;
     }
+
+    section {
+      margin-bottom: 30px;
+    }
+
+    p {
+      margin-bottom: 1em;
+      color: #ccc;
+    }
+
     a {
       color: #FFD700;
       text-decoration: none;
+      font-weight: bold;
     }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .cta-button {
+      display: inline-block;
+      background: #FFD700;
+      color: #111;
+      padding: 12px 24px;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: bold;
+      margin-top: 10px;
+      transition: background 0.3s ease;
+    }
+
+    .cta-button:hover {
+      background: #e6c200;
+    }
+
     footer {
       background-color: #111;
       text-align: center;
-      padding: 10px;
+      padding: 15px 10px;
+      color: #eee;
       font-size: 0.9em;
+      box-shadow: inset 0 1px 0 rgba(255, 215, 0, 0.15);
     }
   </style>
 </head>
+
 <body>
-  <header>
-    <h1>AcnErase</h1>
-    <p>The free acne-trigger scanner app</p>
-  </header>
-  <main>
-    <h2>Welcome</h2>
-    <p>AcnErase is a free educational tool that empowers users to scan ingredient labels on foods and skincare products. It helps identify ingredients that may trigger acne, based on years of personal research.</p>
+  <div class="wrapper">
+    <header>
+      <h1>AcnErase</h1>
+      <p>Your free app to identify acne triggers in food and skincare</p>
+    </header>
 
-    <h2>Why Use AcnErase?</h2>
-    <p>This app was built for anyone struggling with acne and seeking answers. If you've ever felt food might be contributing to your skin problems, AcnErase helps you identify the culprits — without gimmicks, ads, or invasive data collection.</p>
+    <main>
+      <section>
+        <h2>About AcnErase</h2>
+        <p>
+          Created by Martin Hamer, a former nurse and long-time acne sufferer, AcnErase is based on over 22 years of personal research.
+          It empowers users with a scanner and ingredient database to make better-informed choices for their skin.
+        </p>
+      </section>
 
-    <h2>Important: What to Expect</h2>
-    <p>Using AcnErase won't produce overnight results if you continue eating the same diet. For best outcomes, follow the <strong>Purging Diet</strong> while strictly avoiding the ingredients the app flags. </p>
-    <p>Neu5Gc, a molecule from animal foods, can remain in the bloodstream and tissues. Initial improvement may come within a few weeks, but new acne may still appear until blood levels drop significantly. Once purging begins, some users report dramatic changes in complexion — and even shifts in sense of smell, especially toward dairy.</p>
-    <p>Trust the process. Stick with it. Let your body flush the triggers out.</p>
+      <section>
+        <h2>How It Works</h2>
+        <p>
+          Simply scan a label. AcnErase highlights known acne-related triggers, including hidden dairy and gluten-based ingredients.
+          The app is <strong>free</strong>, with <strong>no ads</strong> or sales pitches — just a tool to help you take control of your skin and confidence.
+        </p>
+      </section>
 
-    <h2>Contact</h2>
-    <p>Questions, feedback, or want to share your story? Reach out any time at <a href="mailto:support@acnerase.ca">support@acnerase.ca</a>.</p>
-  </main>
-  <footer>
-    <p>Contact us at: <a href="mailto:support@acnerase.ca">support@acnerase.ca</a></p>
-    <p>&copy; 2025 AcnErase. All rights reserved.</p>
-  </footer>
+      <section>
+        <h2>Privacy First</h2>
+        <p>
+          We don't collect or share any personal data. AcnErase works entirely offline to protect your privacy.
+        </p>
+      </section>
+
+      <section>
+        <h2>Try the Beta Version</h2>
+        <p>
+          We are currently running a closed beta test for Android users with Gmail accounts. If you'd like to help by testing the app and providing feedback, please contact us below.
+        </p>
+        <a href="mailto:support@acnerase.ca" class="cta-button">Request Beta Access</a>
+      </section>
+
+      <section>
+        <h2>The Purging Diet & Transition Period</h2>
+        <p>
+          For maximum effect, you must stop consuming all known acne-triggering ingredients — not just reduce them.
+          Neu5Gc remains in the bloodstream even after you stop eating meat and dairy, so acne lesions may continue for a week or two during the detox.
+        </p>
+        <p>
+          During this stage, many report dramatic improvements in skin clarity and even changes in their sense of smell — foods that once seemed delicious can become offensive.
+          This may be your body regaining its "nutritional intuition."
+        </p>
+        <p>
+          Trust the process. Stick with it. Let your body flush the triggers out.
+        </p>
+      </section>
+
+      <section>
+        <h2>Contact Support</h2>
+        <p>
+          For any questions, feedback, or support, please email us at <a href="mailto:support@acnerase.ca">support@acnerase.ca</a>.
+        </p>
+      </section>
+    </main>
+
+    <footer>
+      <p>Contact us at: <a href="mailto:support@acnerase.ca">support@acnerase.ca</a></p>
+      <p>&copy; 2025 AcnErase. All rights reserved.</p>
+    </footer>
+  </div>
 </body>
 </html>
+
 
