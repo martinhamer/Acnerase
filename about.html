@@ -2,34 +2,96 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>About the Developer | AcnErase</title>
+  <meta name="author" content="Martin Hamer" />
+  <link rel="icon" href="/favicon.ico" />
+
   <style>
-    body {
+    /* Match styles from index.html */
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      background-color: #000;
+      color: #ddd;
       font-family: Arial, sans-serif;
       line-height: 1.6;
-      max-width: 900px;
-      margin: 0 auto;
+    }
+
+    .wrapper {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    header {
+      background-color: #111;
       padding: 20px;
-      background: #f9f9f9;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #00457C;
-    }
-    hr {
-      border: 0;
-      border-top: 1px solid #ccc;
-      margin: 2em 0;
-    }
-    a {
-      color: #00457C;
-    }
-    footer {
       text-align: center;
-      margin-top: 40px;
     }
-    .back-button {
+
+    header h1 {
+      color: #FFD700;
+      margin: 0;
+      font-size: 2.5em;
+    }
+
+    header p {
+      color: #eee;
+      margin-top: 6px;
+      font-size: 1.2em;
+    }
+
+    main {
+      flex: 1;
+      max-width: 800px;
+      margin: 20px auto;
+      background: #111;
+      padding: 25px 30px;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(255, 215, 0, 0.25);
+    }
+
+    h1, h2 {
+      color: #FFD700;
+      margin-top: 1.2em;
+      margin-bottom: 0.5em;
+    }
+
+    h1 {
+      font-size: 2.2em;
+    }
+
+    p, ul, ol, li {
+      color: #ccc;
+      margin-bottom: 1em;
+    }
+
+    ul, ol {
+      padding-left: 1.3em;
+    }
+
+    a {
+      color: #FFD700;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    footer {
+      background-color: #111;
+      text-align: center;
+      padding: 15px 10px;
+      color: #eee;
+      font-size: 0.9em;
+      box-shadow: inset 0 1px 0 rgba(255, 215, 0, 0.15);
+    }
+
+    .btn-back {
       display: inline-block;
       background: #FFD700;
       color: #111;
@@ -37,124 +99,139 @@
       border-radius: 6px;
       text-decoration: none;
       font-weight: bold;
+      margin-top: 20px;
       transition: background 0.3s ease;
     }
-    .back-button:hover {
+
+    .btn-back:hover {
       background: #e6c200;
     }
   </style>
 </head>
 <body>
-  <h1>About Martin Hamer</h1>
-  <h2>Developer of <em>AcnErase</em></h2>
+  <div class="wrapper">
+    <header>
+      <h1>AcnErase</h1>
+      <p>About the Developer</p>
+    </header>
 
-  <p>I was born in 1954 with no idea what my life would become or how long it would last. In 1959, shortly before my sixth birthday, I developed acne lesions for the first time. My family immigrated from Britain to Canada. My parents had previously noticed a rash when I drank cow’s milk as an infant—but at the time, it seemed insignificant.</p>
+    <main>
+      <h1>About Martin Hamer</h1>
+      <h2>Developer of <em>AcnErase</em></h2>
 
-  <p>In my early years, I had occasional spots on my face and back. But as I entered adolescence, the acne worsened into severe cystic acne vulgaris, leaving lasting scars. I tried everything: topical creams, antibiotics (especially tetracycline), three rounds of Accutane, even liquid nitrogen washes. None of it worked long-term. Some made it worse.</p>
+      <p>I was born in 1954 with no idea what my life would become or how long it would last. In 1959, shortly before my sixth birthday, I developed acne lesions for the first time. My family immigrated from Britain to Canada. My parents had previously noticed a rash when I drank cow’s milk as an infant—but at the time, it seemed insignificant.</p>
 
-  <p>Over the decades, my family and I spent tens of thousands of dollars on dermatologists, medications, and alternative treatments. Acne stayed with me into my seventies—until I finally discovered the cause and how to control it.</p>
+      <p>In my early years, I had occasional spots on my face and back. But as I entered adolescence, the acne worsened into severe cystic acne vulgaris, leaving lasting scars. I tried everything: topical creams, antibiotics (especially tetracycline), three rounds of Accutane, even liquid nitrogen washes. None of it worked long-term. Some made it worse.</p>
 
-  <hr />
+      <p>Over the decades, my family and I spent tens of thousands of dollars on dermatologists, medications, and alternative treatments. Acne stayed with me into my seventies—until I finally discovered the cause and how to control it.</p>
 
-  <h2>The Breakthrough: A Simple Meal Plan</h2>
-  <p>In March 2003, I followed the Atkins diet strictly: tuna in water, raw spinach, tap water—nothing else. I wasn’t thinking about acne. Then one day, I looked in the mirror—and for the first time in my life, my skin was completely clear.</p>
+      <hr style="border-top: 1px solid #555; margin: 2em 0;" />
 
-  <p>I later treated myself to a packaged strawberry pudding. Within an hour, small whiteheads returned. My nursing instincts kicked in. Was this an immune response?</p>
+      <h2>The Breakthrough: A Simple Meal Plan</h2>
+      <p>In March 2003, I followed the Atkins diet strictly: tuna in water, raw spinach, tap water—nothing else. I wasn’t thinking about acne. Then one day, I looked in the mirror—and for the first time in my life, my skin was completely clear.</p>
 
-  <p>That question became my obsession. I started systematically experimenting—tracking every food, drink, and medication. After 22+ years of research, I identified 185 ingredients that consistently trigger acne. The common thread: a sugar molecule called Neu5Gc.</p>
+      <p>I later treated myself to a packaged strawberry pudding. Within an hour, small whiteheads returned. My nursing instincts kicked in. Was this an immune response?</p>
 
-  <hr />
+      <p>That question became my obsession. I started systematically experimenting—tracking every food, drink, and medication. After 22+ years of research, I identified 185 ingredients that consistently trigger acne. The common thread: a sugar molecule called Neu5Gc.</p>
 
-  <h2>Scientific Backing</h2>
-  <p>In September 2003, I saw a press conference by Dr. Ajit Varki (UC San Diego) presenting research showing every human reacts to Neu5Gc—a sialic acid from non-human mammals. Neu5Gc is absorbed into our tissues and triggers a chronic immune reaction known as <strong>xenosialitis</strong>.</p>
+      <hr style="border-top: 1px solid #555; margin: 2em 0;" />
 
-  <p>Though Dr. Varki expressed interest, acne wasn’t a funding priority. Still, his findings validated my lived experience.</p>
+      <h2>Scientific Backing</h2>
+      <p>In September 2003, I saw a press conference by Dr. Ajit Varki (UC San Diego) presenting research showing every human reacts to Neu5Gc—a sialic acid from non-human mammals. Neu5Gc is absorbed into our tissues and triggers a chronic immune reaction known as <strong>xenosialitis</strong>.</p>
 
-  <hr />
+      <p>Though Dr. Varki expressed interest, acne wasn’t a funding priority. Still, his findings validated my lived experience.</p>
 
-  <h2>My Observations</h2>
-  <ul>
-    <li>Beef consistently causes acne. Pork, chicken, fish, and shellfish do not.</li>
-    <li>Gelatin (from boiled bones/tissues) and caramel coloring cause the worst breakouts.</li>
-    <li>Milk is less concentrated but still causes whiteheads.</li>
-  </ul>
+      <hr style="border-top: 1px solid #555; margin: 2em 0;" />
 
-  <hr />
+      <h2>My Observations</h2>
+      <ul>
+        <li>Beef consistently causes acne. Pork, chicken, fish, and shellfish do not.</li>
+        <li>Gelatin (from boiled bones/tissues) and caramel coloring cause the worst breakouts.</li>
+        <li>Milk is less concentrated but still causes whiteheads.</li>
+      </ul>
 
-  <h2>Frequently Asked Questions</h2>
-  <ol>
-    <li><strong>Why do some people never get acne?</strong> Their immune system may not react to Neu5Gc.</li>
-    <li><strong>Why does acne disappear in adulthood?</strong> The immune system may become desensitized.</li>
-    <li><strong>Why do some still get acne in old age?</strong> Their immune system remains active.</li>
-    <li><strong>Why do pimples form in clusters?</strong> The lymphatic system activates local nodes.</li>
-    <li><strong>Why are some lesions worse?</strong> Higher Neu5Gc concentrations cause stronger responses.</li>
-    <li><strong>Why cysts on back/chest?</strong> Larger lymph nodes exist in these regions.</li>
-    <li><strong>Why do cysts refill after drainage?</strong> Lymph nodes keep reacting unless Neu5Gc is removed.</li>
-    <li><strong>What causes acne scars?</strong> Inflammation and extraction damage lymph nodes and tissues.</li>
-    <li><strong>Fastest way to reduce acne?</strong> Caplet-form antihistamines (no gelatin) work better than any other product.</li>
-    <li><strong>How to prevent acne permanently?</strong> Avoid Neu5Gc. Use the AcnErase app to learn what to avoid.</li>
-    <li><strong>Why do I get acne?</strong> Your immune system is doing its job—fighting a foreign molecule.</li>
-    <li><strong>Why do others lose acne over time?</strong> Immune weakening or tolerance.</li>
-    <li><strong>What’s the worst part of acne?</strong> The emotional, social, and physical toll.</li>
-    <li><strong>What’s the best part?</strong> It signals a strong immune system—possibly preventing worse outcomes.</li>
-  </ol>
+      <hr style="border-top: 1px solid #555; margin: 2em 0;" />
 
-  <hr />
+      <h2>Frequently Asked Questions</h2>
+      <ol>
+        <li><strong>Why do some people never get acne?</strong> Their immune system may not react to Neu5Gc.</li>
+        <li><strong>Why does acne disappear in adulthood?</strong> The immune system may become desensitized.</li>
+        <li><strong>Why do some still get acne in old age?</strong> Their immune system remains active.</li>
+        <li><strong>Why do pimples form in clusters?</strong> The lymphatic system activates local nodes.</li>
+        <li><strong>Why are some lesions worse?</strong> Higher Neu5Gc concentrations cause stronger responses.</li>
+        <li><strong>Why cysts on back/chest?</strong> Larger lymph nodes exist in these regions.</li>
+        <li><strong>Why do cysts refill after drainage?</strong> Lymph nodes keep reacting unless Neu5Gc is removed.</li>
+        <li><strong>What causes acne scars?</strong> Inflammation and extraction damage lymph nodes and tissues.</li>
+        <li><strong>Fastest way to reduce acne?</strong> Caplet-form antihistamines (no gelatin) work better than any other product.</li>
+        <li><strong>How to prevent acne permanently?</strong> Avoid Neu5Gc. Use the AcnErase app to learn what to avoid.</li>
+        <li><strong>Why do I get acne?</strong> Your immune system is doing its job—fighting a foreign molecule.</li>
+        <li><strong>Why do others lose acne over time?</strong> Immune weakening or tolerance.</li>
+        <li><strong>What’s the worst part of acne?</strong> The emotional, social, and physical toll.</li>
+        <li><strong>What’s the best part?</strong> It signals a strong immune system—possibly preventing worse outcomes.</li>
+      </ol>
 
-  <h2>About the AcnErase App</h2>
-  <p>The <em>AcnErase</em> app scans ingredient lists on food, beverages, and medications, identifying potential acne triggers—especially Neu5Gc. It empowers users to make informed choices. The more you learn, the less you'll need the app.</p>
+      <hr style="border-top: 1px solid #555; margin: 2em 0;" />
 
-  <hr />
+      <h2>About the AcnErase App</h2>
+      <p>The <em>AcnErase</em> app scans ingredient lists on food, beverages, and medications, identifying potential acne triggers—especially Neu5Gc. It empowers users to make informed choices. The more you learn, the less you'll need the app.</p>
 
-  <h2>Neu5Gc and Cancer Risk</h2>
-  <ul>
-    <li>Neu5Gc is found in higher concentrations in tumors than healthy tissue.</li>
-    <li>Humans produce antibodies against Neu5Gc, causing chronic inflammation.</li>
-    <li>This inflammation (xenosialitis) is linked to cancer growth, especially colorectal cancer.</li>
-  </ul>
+      <hr style="border-top: 1px solid #555; margin: 2em 0;" />
 
-  <hr />
+      <h2>Neu5Gc and Cancer Risk</h2>
+      <ul>
+        <li>Neu5Gc is found in higher concentrations in tumors than healthy tissue.</li>
+        <li>Humans produce antibodies against Neu5Gc, causing chronic inflammation.</li>
+        <li>This inflammation (xenosialitis) is linked to cancer growth, especially colorectal cancer.</li>
+      </ul>
 
-  <h2>How the App Was Conceived</h2>
-  <p>After decades of trying to get attention from the medical community, I decided to take action. I developed the AcnErase app myself with the help of AI, using a Windows laptop and no budget. I currently can’t afford a Mac to create an iOS version, but the Android version works perfectly.</p>
+      <hr style="border-top: 1px solid #555; margin: 2em 0;" />
 
-  <p>To avoid overloading the app, I created this downloadable guide instead—sharing what I’ve learned without compromising app performance. This is my life’s work, and I hope it helps others escape the cycle of acne.</p>
+      <h2>How the App Was Conceived</h2>
+      <p>After decades of trying to get attention from the medical community, I decided to take action. I developed the AcnErase app myself with the help of AI, using a Windows laptop and no budget. I currently can’t afford a Mac to create an iOS version, but the Android version works perfectly.</p>
 
-  <hr />
+      <p>To avoid overloading the app, I created this downloadable guide instead—sharing what I’ve learned without compromising app performance. This is my life’s work, and I hope it helps others escape the cycle of acne.</p>
 
-  <h2>The 7-Day Acne Purge Diet</h2>
-  <p>This diet eliminates all known acne-triggering ingredients. It includes 3 meals and 3 snacks per day, avoids processed foods, dairy, beef, wheat, and Neu5Gc.</p>
+      <hr style="border-top: 1px solid #555; margin: 2em 0;" />
 
-  <h3>Sample Day</h3>
-  <ul>
-    <li><strong>Breakfast:</strong> Oatmeal with blueberries and cinnamon; herbal tea or lemon water</li>
-    <li><strong>Snack:</strong> Apple slices with sunflower seed butter</li>
-    <li><strong>Lunch:</strong> Grilled chicken, steamed veggies, brown rice with olive oil & lemon</li>
-    <li><strong>Snack:</strong> Pumpkin seeds</li>
-    <li><strong>Dinner:</strong> Baked salmon, roasted sweet potatoes, arugula salad</li>
-    <li><strong>Snack:</strong> Pear or baked apple</li>
-  </ul>
+      <h2>The 7-Day Acne Purge Diet</h2>
+      <p>This diet eliminates all known acne-triggering ingredients. It includes 3 meals and 3 snacks per day, avoids processed foods, dairy, beef, wheat, and Neu5Gc.</p>
 
-  <h3>Rotation Options</h3>
-  <p>Protein: chicken, turkey, salmon, sardines<br />
-  Grains: quinoa, wild rice, brown rice<br />
-  Veggies: spinach, zucchini, squash, cauliflower<br />
-  Snacks: seeds, unsweetened dried fruit (no peanuts)</p>
+      <h3>Sample Day</h3>
+      <ul>
+        <li><strong>Breakfast:</strong> Oatmeal with blueberries and cinnamon; herbal tea or lemon water</li>
+        <li><strong>Snack:</strong> Apple slices with sunflower seed butter</li>
+        <li><strong>Lunch:</strong> Grilled chicken, steamed veggies, brown rice with olive oil & lemon</li>
+        <li><strong>Snack:</strong> Pumpkin seeds</li>
+        <li><strong>Dinner:</strong> Baked salmon, roasted sweet potatoes, arugula salad</li>
+        <li><strong>Snack:</strong> Pear or baked apple</li>
+      </ul>
 
-  <p><strong>Avoid:</strong> Gelatin, caramel, unknown spices, dairy derivatives.</p>
+      <h3>Rotation Options</h3>
+      <p>Protein: chicken, turkey, salmon, sardines<br />
+      Grains: quinoa, wild rice, brown rice<br />
+      Veggies: spinach, zucchini, squash, cauliflower<br />
+      Snacks: seeds, unsweetened dried fruit (no peanuts)</p>
 
-  <hr />
+      <p><strong>Avoid:</strong> Gelatin, caramel, unknown spices, dairy derivatives.</p>
 
-  <h2>Final Thoughts</h2>
-  <p>Acne isn’t your fault—it’s a sign of a strong immune system. With knowledge, discipline, and the right tools, you can overcome it naturally and permanently.</p>
+      <hr style="border-top: 1px solid #555; margin: 2em 0;" />
 
-  <p>— Martin Hamer<br />
-  Developer, AcnErase<br />
-  <a href="mailto:acnerase@gmail.com">acnerase@gmail.com</a></p>
+      <h2>Final Thoughts</h2>
+      <p>Acne isn’t your fault—it’s a sign of a strong immune system. With knowledge, discipline, and the right tools, you can overcome it naturally and permanently.</p>
 
-  <footer>
-    <a href="index.html" class="back-button">← Back to Home</a>
-  </footer>
+      <p>— Martin Hamer<br />
+      Developer, AcnErase<br />
+      <a href="mailto:acnerase@gmail.com">acnerase@gmail.com</a></p>
+
+      <a href="index.html" class="btn-back">← Back to Home</a>
+    </main>
+
+    <footer>
+      <p>Contact us at: <a href="mailto:support@acnerase.ca">support@acnerase.ca</a></p>
+      <p>&copy; 2025 AcnErase. All rights reserved.</p>
+    </footer>
+  </div>
 </body>
 </html>
+
 
