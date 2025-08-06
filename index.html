@@ -17,6 +17,15 @@
 
   <link rel="icon" href="/favicon.ico" />
 
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-XXXXXXXXXX');
+  </script>
+
   <style>
     /* Reset and base */
     html, body {
@@ -169,32 +178,37 @@
         </p>
       </section>
 
-       <section>
+      <section>
         <h2>Contact Support</h2>
         <p>
           For any questions, feedback, or support, please email us at <a href="mailto:support@acnerase.ca">support@acnerase.ca</a>.
         </p>
       </section>
 
-    <section>
-  <h2>Download AcnErase</h2>
-  <p>
-    While we await Google Play approval, you can download the free AcnErase app directly below.
-  </p>
-  <a href="downloads/app-release.apk" download class="cta-button">📲 Download AcnErase APK</a>
-  <p style="margin-top: 8px; font-size: 0.9em; color: #555;">
-  <strong>Note:</strong> This app is for Android devices only. You may need to enable <em>“Install unknown apps”</em> in your Android settings.  
-  An iOS version is planned once Mac/Xcode development is possible.
-</p>
-</section>
+      <section>
+        <h2>Download AcnErase</h2>
+        <p>
+          While we await Google Play approval, you can download the free AcnErase app directly below.
+        </p>
+        <a href="downloads/app-release.apk"
+           download
+           class="cta-button"
+           onclick="gtag('event', 'download', { 'event_category': 'APK', 'event_label': 'AcnErase APK Download' });">
+           📲 Download AcnErase APK
+        </a>
+        <p style="margin-top: 8px; font-size: 0.9em; color: #555;">
+          <strong>Note:</strong> This app is for Android devices only. You may need to enable <em>“Install unknown apps”</em> in your Android settings.  
+          An iOS version is planned once Mac/Xcode development is possible.
+        </p>
+      </section>
 
-<section>
-  <h2>About the Developer</h2>
-  <p>
-    Learn more about the motivation and story behind AcnErase.
-  </p>
-  <a href="about.html" class="cta-button">About the Developer</a>
-</section>
+      <section>
+        <h2>About the Developer</h2>
+        <p>
+          Learn more about the motivation and story behind AcnErase.
+        </p>
+        <a href="about.html" class="cta-button">About the Developer</a>
+      </section>
     </main>
 
     <footer>
@@ -204,8 +218,3 @@
   </div>
 </body>
 </html>
-
-
-
-
-
