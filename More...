@@ -1,0 +1,50 @@
+<!-- AcnErase About / About.html
+     Ready-to-paste HTML section for acnerase.ca
+     Keep styling lightweight and self-contained so it can be dropped into an existing site.
+-->
+<section id="about-acnerase" aria-labelledby="about-title" style="font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial;s max-width:900px;margin:24px auto;padding:20px;line-height:1.45;color:#111;background:#fff;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.06);">
+  <header style="margin-bottom:14px;">
+    <h1 id="about-title" style="font-size:1.6rem;margin:0 0 6px;color:#0b6;">About AcnErase</h1>
+    <p style="margin:0;color:#444;">A free educational tool to help people avoid acne-triggering ingredients in food, beverages and medications.</p>
+  </header>
+
+  <aside style="margin:18px 0;padding:12px;border-left:4px solid #0b6;background:#f7fff7;border-radius:6px;">
+    <strong style="display:block;margin-bottom:6px">Quick summary</strong>
+    <p style="margin:0">AcnErase scans ingredient lists for items likely to contain bovine-derived ingredients (Neu5Gc). Many users see clearer skin within days after avoiding flagged ingredients. Always consult a healthcare professional before changing your diet.</p>
+  </aside>
+
+  <section style="margin-top:14px;">
+    <h2 style="font-size:1.15rem;margin:8px 0;color:#0a58a8;">Why Android-only for now</h2>
+    <p>I built AcnErase for Android first. I don't currently have a Mac — required for building iOS apps — and I’m keeping the app free for users. As a 70-year-old pensioner who never monetized the project, resources are limited. If funding or partnerships become available, I will prioritize an iPhone version.</p>
+  </section>
+
+  <section style="margin-top:14px;">
+    <h2 style="font-size:1.15rem;margin:8px 0;color:#0a58a8;">My story</h2>
+    <p>I lived with severe, cystic, scarring acne for 49 years. Even as a registered nurse, I found the medical explanations incomplete. After years of self-experimentation while on a strict low‑carb diet, I identified a consistent food-related trigger. In 2003 I learned the molecule implicated is called <strong>Neu5Gc</strong>, a bovine sialic acid described in research by Dr. Ajit Varki (UC San Diego). My long-term testing suggests domesticated cattle derivatives — in many processed ingredients — are the main source of this trigger.</p>
+  </section>
+
+  <section style="margin-top:14px;">
+    <h2 style="font-size:1.15rem;margin:8px 0;color:#0a58a8;">How AcnErase helps</h2>
+    <p>AcnErase scans labels and flags ingredients that are likely to contain bovine derivatives associated with Neu5Gc. Based on decades of personal testing, avoiding these ingredients can lead to dramatically clearer skin — often within a week — while maintaining a healthy immune response.</p>
+    <p><em>Note:</em> Ingredients evolve. Some items previously containing dairy derivatives may no longer do so. Unless a product is clearly marked <strong>Vegan</strong> or <strong>Parve/Pareve</strong>, exercise caution.</p>
+  </section>
+
+  <section style="margin-top:14px;">
+    <h2 style="font-size:1.15rem;margin:8px 0;color:#0a58a8;">Important: consult a professional</h2>
+    <p>Before making dietary changes, please consult your healthcare provider and a registered <strong>Dietitian</strong>. A dietitian can recommend healthy alternatives so you don’t feel deprived and can sustain changes long-term.</p>
+  </section>
+
+  <section style="margin-top:14px;">
+    <h2 style="font-size:1.15rem;margin:8px 0;color:#0a58a8;">Why the app is free</h2>
+    <p>I created AcnErase to reduce the physical and emotional suffering acne causes. The app will remain free for users. My current hopes for support and partnerships include practical goals that make development and logistics possible, such as improved transportation to support the project and family needs.</p>
+  </section>
+
+  <section style="margin-top:14px;">
+    <h2 style="font-size:1.15rem;margin:8px 0;color:#0a58a8;">Contact & support</h2>
+    <p>If you have questions, feedback, or partnership ideas, please contact <a href="mailto:support@acnerase.ca">support@acnerase.ca</a>. Your feedback helps improve the app for others.</p>
+  </section>
+
+  <footer style="margin-top:18px;color:#666;font-size:0.95rem;">
+    <p style="margin:0">— Martin Hamer, RN, Founder of AcnErase</p>
+  </footer>
+</section>
