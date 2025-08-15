@@ -1,4 +1,4 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -7,24 +7,114 @@
   <meta name="description" content="The Hamer Unifying Theory of Acne proposes that acne is an immune-mediated response to dietary antigens Neu5Gc and gluten, reframing acne as a systemic inflammation issue.">
   <link rel="stylesheet" href="styles.css">
   <style>
-    body {font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; color: #333;}
-    header {background-color: #f8f8f8; padding: 2rem; text-align: center;}
-    header h1 {margin: 0; font-size: 2rem;}
-    main {padding: 2rem; max-width: 900px; margin: auto;}
-    h2 {color: #0056b3; margin-top: 2rem;}
-    h3 {color: #0073e6; margin-top: 1.5rem;}
-    ul {margin-left: 1.5rem;}
-    ol {margin-left: 1.5rem;}
-    .callout {background-color: #e6f7ff; border-left: 5px solid #0073e6; padding: 1rem; margin: 1rem 0;}
-    a {color: #0073e6; text-decoration: none;}
-    a:hover {text-decoration: underline;}
+    /* Reset and base */
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      background-color: #000;
+      color: #ddd;
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+    }
+
+    .wrapper {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    header {
+      background-color: #111;
+      padding: 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      color: #FFD700;
+      margin: 0;
+      font-size: 2.5em;
+    }
+
+    header p {
+      color: #eee;
+      margin-top: 6px;
+      font-size: 1.2em;
+    }
+
+    main {
+      flex: 1;
+      max-width: 900px;
+      margin: 20px auto;
+      background: #111;
+      padding: 25px 30px;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(255, 215, 0, 0.25);
+    }
+
+    h2 {
+      color: #FFD700;
+      margin-top: 1.2em;
+      margin-bottom: 0.5em;
+    }
+
+    h3 {
+      color: #FFD700;
+      margin-top: 1em;
+    }
+
+    section {
+      margin-bottom: 30px;
+    }
+
+    p {
+      margin-bottom: 1em;
+      color: #ccc;
+    }
+
+    a {
+      color: #FFD700;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .cta-button {
+      display: inline-block;
+      background: #FFD700;
+      color: #111;
+      padding: 12px 24px;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: bold;
+      margin-top: 10px;
+      transition: background 0.3s ease;
+    }
+
+    .cta-button:hover {
+      background: #e6c200;
+    }
+
+    footer {
+      background-color: #111;
+      text-align: center;
+      padding: 15px 10px;
+      color: #eee;
+      font-size: 0.9em;
+      box-shadow: inset 0 1px 0 rgba(255, 215, 0, 0.15);
+    }
 
     /* Horizontal Flow Chart Styles */
     .diagram-horizontal {
-      background-color: #f9f9f9;
+      background-color: #111;
       padding: 1rem;
       margin: 1rem 0;
       text-align: center;
+      border-radius: 8px;
+      box-shadow: 0 1px 6px rgba(255, 215, 0, 0.2);
     }
 
     .flow-horizontal {
@@ -42,125 +132,139 @@
       text-align: center;
       min-width: 150px;
       font-weight: bold;
-      color: #333;
+      color: #111;
     }
 
-    .flow-box.trigger { background-color: #ffcccc; }       /* Red */
-    .flow-box.immune { background-color: #ffd699; }        /* Orange */
-    .flow-box.inflammation { background-color: #ffff99; }  /* Yellow */
-    .flow-box.acne { background-color: #99ccff; }          /* Blue */
+    .flow-box.trigger { background-color: #ffcc66; }       /* light orange for trigger */
+    .flow-box.immune { background-color: #ff9966; }        /* darker orange for immune */
+    .flow-box.inflammation { background-color: #ff6666; }  /* red for inflammation */
+    .flow-box.acne { background-color: #66ccff; }          /* blue for acne */
 
     .arrow-right {
       font-size: 2rem;
       font-weight: bold;
-      color: #555;
+      color: #FFD700;
     }
 
     .loop-note {
       margin-top: 0.5rem;
       font-style: italic;
-      color: #555;
+      color: #ccc;
     }
   </style>
 </head>
 <body>
+  <div class="wrapper">
+    <header>
+      <h1>Hamer Unifying Theory of Acne: The Role of Neu5Gc and Gluten</h1>
+    </header>
 
-<header>
-  <h1>Hamer Unifying Theory of Acne: The Role of Neu5Gc and Gluten</h1>
-</header>
+    <main>
+      <section class="diagram-horizontal">
+        <h3>Hamer Unifying Theory: Horizontal Flow</h3>
+        <div class="flow-horizontal">
+          <div class="flow-box trigger">
+            <strong>Dietary Triggers</strong><br>
+            Neu5Gc & Gluten
+          </div>
+          <div class="arrow-right">→</div>
+          <div class="flow-box immune">
+            <strong>Immune Activation</strong><br>
+            Antibody response<br>Lymph nodes
+          </div>
+          <div class="arrow-right">→</div>
+          <div class="flow-box inflammation">
+            <strong>Inflammation</strong><br>
+            Systemic & Skin
+          </div>
+          <div class="arrow-right">→</div>
+          <div class="flow-box acne">
+            <strong>Acne Manifestation</strong><br>
+            Papules, pustules, cysts
+          </div>
+        </div>
+        <div class="loop-note">Ongoing exposure → chronic cycle ↺</div>
+      </section>
 
-<main>
+      <section class="callout">
+        <strong>Abstract:</strong> Acne is primarily an immune-mediated response to Neu5Gc (from red meat and dairy) and gluten (from wheat and related grains). Chronic immune activation leads to skin inflammation and acne as a visible manifestation of systemic immune processes.
+      </section>
 
-  <section class="callout">
-    <strong>Abstract:</strong> Acne is primarily an immune-mediated response to Neu5Gc (from red meat and dairy) and gluten (from wheat and related grains). Chronic immune activation leads to skin inflammation and acne as a visible manifestation of systemic immune processes.
-  </section>
+      <section>
+        <h2>Introduction</h2>
+        <p>
+          Acne vulgaris is traditionally attributed to excess sebum, follicular occlusion, bacterial colonization, and hormonal influences. 
+          However, these may be secondary effects of a deeper immune response triggered by dietary antigens. This page outlines a unifying theory linking all major forms of acne to exposure to <strong>Neu5Gc</strong> and <strong>gluten</strong>.
+        </p>
+      </section>
 
-  <!-- Horizontal Flow Chart -->
-  <div class="diagram-horizontal">
-    <h3>Hamer Unifying Theory: Horizontal Flow</h3>
-    <div class="flow-horizontal">
-      <div class="flow-box trigger">
-        <strong>Dietary Triggers</strong><br>
-        Neu5Gc & Gluten
-      </div>
-      <div class="arrow-right">→</div>
-      <div class="flow-box immune">
-        <strong>Immune Activation</strong><br>
-        Antibody response<br>Lymph nodes
-      </div>
-      <div class="arrow-right">→</div>
-      <div class="flow-box inflammation">
-        <strong>Inflammation</strong><br>
-        Systemic & Skin
-      </div>
-      <div class="arrow-right">→</div>
-      <div class="flow-box acne">
-        <strong>Acne Manifestation</strong><br>
-        Papules, pustules, cysts
-      </div>
-    </div>
-    <div class="loop-note">Ongoing exposure → chronic cycle ↺</div>
+      <section>
+        <h2>The Triggers</h2>
+
+        <h3>Neu5Gc</h3>
+        <ul>
+          <li>Found in bovine-derived food products (red meat, dairy).</li>
+          <li>Incorporated into human tissues despite being non-human.</li>
+          <li>Provokes anti-Neu5Gc antibody response in all humans (Varki et al., UCSD).</li>
+          <li>Repeated consumption leads to chronic inflammation.</li>
+        </ul>
+
+        <h3>Gluten</h3>
+        <ul>
+          <li>Present in wheat, barley, and rye.</li>
+          <li>Can increase intestinal permeability (“leaky gut”).</li>
+          <li>Triggers immune activation and systemic inflammation in susceptible individuals, even without celiac disease.</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Pathophysiology: Acne as an Immune Expression</h2>
+        <ol>
+          <li>Antigen exposure (Neu5Gc, gluten) → systemic immune recognition.</li>
+          <li>Lymphatic involvement → node swelling, immune cell activation.</li>
+          <li>Sebaceous gland stimulation → increased oil production.</li>
+          <li>Follicular occlusion and bacterial colonization → comedone formation.</li>
+          <li>Chronic inflammation → inflammatory lesions (papules, pustules, cysts).</li>
+        </ol>
+      </section>
+
+      <section>
+        <h2>Clinical Spectrum</h2>
+        <h3>Non-inflammatory acne</h3>
+        <p>Comedones represent early lymphatic congestion.</p>
+
+        <h3>Inflammatory acne</h3>
+        <p>Nodules, cysts, and widespread lesions are linked to deeper lymph node activation.</p>
+
+        <h3>Distribution Patterns</h3>
+        <p>Lesion locations (face, chest, scalp, mucosal sites) follow lymphatic drainage and cytokine signaling pathways.</p>
+      </section>
+
+      <section>
+        <h2>Immune Mechanisms</h2>
+        <ul>
+          <li>Antigen-presenting cells detect Neu5Gc/gluten.</li>
+          <li>Lymph nodes undergo hyperplasia and recruit inflammatory cells.</li>
+          <li>Activated T and B cells migrate to skin tissue via lymphatic and vascular pathways.</li>
+          <li>Lesions form according to predictable drainage and tissue tropism.</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Conclusion</h2>
+        <p>
+          This theory reframes acne as a systemic immune disorder with visible cutaneous manifestations rather than a purely dermatological or hormonal problem. 
+          By identifying Neu5Gc and gluten as primary antigens, new therapeutic strategies may emerge for acne and related inflammatory diseases.
+        </p>
+        <p>References: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3133421/">Varki et al., UCSD</a></p>
+      </section>
+    </main>
+
+    <footer>
+      <p>Contact us at: <a href="mailto:support@acnerase.ca">support@acnerase.ca</a></p>
+      <p>&copy; 2025 AcnErase. All rights reserved.</p>
+    </footer>
   </div>
-
-  <h2>Introduction</h2>
-  <p>
-    Acne vulgaris is traditionally attributed to excess sebum, follicular occlusion, bacterial colonization, and hormonal influences. 
-    However, these may be secondary effects of a deeper immune response triggered by dietary antigens. This page outlines a unifying theory linking all major forms of acne to exposure to <strong>Neu5Gc</strong> and <strong>gluten</strong>.
-  </p>
-
-  <h2>The Triggers</h2>
-
-  <h3>Neu5Gc</h3>
-  <ul>
-    <li>Found in bovine-derived food products (red meat, dairy).</li>
-    <li>Incorporated into human tissues despite being non-human.</li>
-    <li>Provokes anti-Neu5Gc antibody response in all humans (Varki et al., UCSD).</li>
-    <li>Repeated consumption leads to chronic inflammation.</li>
-  </ul>
-
-  <h3>Gluten</h3>
-  <ul>
-    <li>Present in wheat, barley, and rye.</li>
-    <li>Can increase intestinal permeability (“leaky gut”).</li>
-    <li>Triggers immune activation and systemic inflammation in susceptible individuals, even without celiac disease.</li>
-  </ul>
-
-  <h2>Pathophysiology: Acne as an Immune Expression</h2>
-  <ol>
-    <li>Antigen exposure (Neu5Gc, gluten) → systemic immune recognition.</li>
-    <li>Lymphatic involvement → node swelling, immune cell activation.</li>
-    <li>Sebaceous gland stimulation → increased oil production.</li>
-    <li>Follicular occlusion and bacterial colonization → comedone formation.</li>
-    <li>Chronic inflammation → inflammatory lesions (papules, pustules, cysts).</li>
-  </ol>
-
-  <h2>Clinical Spectrum</h2>
-  <h3>Non-inflammatory acne</h3>
-  <p>Comedones represent early lymphatic congestion.</p>
-
-  <h3>Inflammatory acne</h3>
-  <p>Nodules, cysts, and widespread lesions are linked to deeper lymph node activation.</p>
-
-  <h3>Distribution Patterns</h3>
-  <p>Lesion locations (face, chest, scalp, mucosal sites) follow lymphatic drainage and cytokine signaling pathways.</p>
-
-  <h2>Immune Mechanisms</h2>
-  <ul>
-    <li>Antigen-presenting cells detect Neu5Gc/gluten.</li>
-    <li>Lymph nodes undergo hyperplasia and recruit inflammatory cells.</li>
-    <li>Activated T and B cells migrate to skin tissue via lymphatic and vascular pathways.</li>
-    <li>Lesions form according to predictable drainage and tissue tropism.</li>
-  </ul>
-
-  <h2>Conclusion</h2>
-  <p>
-    This theory reframes acne as a systemic immune disorder with visible cutaneous manifestations rather than a purely dermatological or hormonal problem. 
-    By identifying Neu5Gc and gluten as primary antigens, new therapeutic strategies may emerge for acne and related inflammatory diseases.
-  </p>
-
-  <p>References: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3133421/">Varki et al., UCSD</a></p>
-
-</main>
-
 </body>
 </html>
+
