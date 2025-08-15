@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -16,9 +16,51 @@
     ul {margin-left: 1.5rem;}
     ol {margin-left: 1.5rem;}
     .callout {background-color: #e6f7ff; border-left: 5px solid #0073e6; padding: 1rem; margin: 1rem 0;}
-    .diagram {background-color: #f0f0f0; padding: 1rem; margin: 1rem 0; text-align: center; font-style: italic;}
     a {color: #0073e6; text-decoration: none;}
     a:hover {text-decoration: underline;}
+
+    /* Horizontal Flow Chart Styles */
+    .diagram-horizontal {
+      background-color: #f9f9f9;
+      padding: 1rem;
+      margin: 1rem 0;
+      text-align: center;
+    }
+
+    .flow-horizontal {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+      margin-top: 1rem;
+    }
+
+    .flow-box {
+      padding: 1rem 1.5rem;
+      border-radius: 10px;
+      text-align: center;
+      min-width: 150px;
+      font-weight: bold;
+      color: #333;
+    }
+
+    .flow-box.trigger { background-color: #ffcccc; }       /* Red */
+    .flow-box.immune { background-color: #ffd699; }        /* Orange */
+    .flow-box.inflammation { background-color: #ffff99; }  /* Yellow */
+    .flow-box.acne { background-color: #99ccff; }          /* Blue */
+
+    .arrow-right {
+      font-size: 2rem;
+      font-weight: bold;
+      color: #555;
+    }
+
+    .loop-note {
+      margin-top: 0.5rem;
+      font-style: italic;
+      color: #555;
+    }
   </style>
 </head>
 <body>
@@ -32,6 +74,33 @@
   <section class="callout">
     <strong>Abstract:</strong> Acne is primarily an immune-mediated response to Neu5Gc (from red meat and dairy) and gluten (from wheat and related grains). Chronic immune activation leads to skin inflammation and acne as a visible manifestation of systemic immune processes.
   </section>
+
+  <!-- Horizontal Flow Chart -->
+  <div class="diagram-horizontal">
+    <h3>Hamer Unifying Theory: Horizontal Flow</h3>
+    <div class="flow-horizontal">
+      <div class="flow-box trigger">
+        <strong>Dietary Triggers</strong><br>
+        Neu5Gc & Gluten
+      </div>
+      <div class="arrow-right">→</div>
+      <div class="flow-box immune">
+        <strong>Immune Activation</strong><br>
+        Antibody response<br>Lymph nodes
+      </div>
+      <div class="arrow-right">→</div>
+      <div class="flow-box inflammation">
+        <strong>Inflammation</strong><br>
+        Systemic & Skin
+      </div>
+      <div class="arrow-right">→</div>
+      <div class="flow-box acne">
+        <strong>Acne Manifestation</strong><br>
+        Papules, pustules, cysts
+      </div>
+    </div>
+    <div class="loop-note">Ongoing exposure → chronic cycle ↺</div>
+  </div>
 
   <h2>Introduction</h2>
   <p>
@@ -82,10 +151,6 @@
     <li>Activated T and B cells migrate to skin tissue via lymphatic and vascular pathways.</li>
     <li>Lesions form according to predictable drainage and tissue tropism.</li>
   </ul>
-
-  <div class="diagram">
-    Suggested Diagram: Immune cascade from antigen exposure → lymph node activation → skin lesion formation
-  </div>
 
   <h2>Conclusion</h2>
   <p>
