@@ -1,0 +1,6 @@
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon/acnerase_icon_final_padded.png"
+  adaptive_icon_background: "#F8EBDD"
+  adaptive_icon_foreground: "assets/icon/acnerase_icon_final_padded.png"

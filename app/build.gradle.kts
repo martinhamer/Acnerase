@@ -5,17 +5,26 @@ plugins {
 }
 
 android {
-    namespace = "com.example.acnerase2"
+    namespace = "com.example.acnerase"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.acnerase2"
+        applicationId = "com.acnerase.app"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    signingConfigs {
+        create("release") {
+            keyAlias = "acnerase"
+            keyPassword = "4Windows22#"
+            storeFile = file("C:/Users/hamer/acnerase-release-key.jks")
+            storePassword = "4Windows22#"
+        }
     }
 
     buildTypes {
@@ -25,6 +34,7 @@ android {
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
             )
+            signingConfig = signingConfigs.getByName("release")
         }
     }
     compileOptions {

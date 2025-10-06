@@ -1,5 +1,50 @@
 [
   {
+    "name": "milk",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Milk",
+    "description": "Simple milk entry, common in many ingredient lists.",
+    "symptom_pattern": "Face and upper body breakouts."
+  },
+  {
+    "name": "butter flavour",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Butter Flavour",
+    "description": "Artificial or natural butter flavouring linked to dairy derivatives.",
+    "symptom_pattern": "Face and upper body breakouts."
+  },
+  {
+    "name": "butter flavor",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Butter Flavor",
+    "description": "American spelling of butter flavour, found in U.S. products.",
+    "symptom_pattern": "Face and upper body breakouts."
+  },
+  {
+    "name": "milk powder",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Milk Powder",
+    "description": "Dried milk product used in processed food.",
+    "symptom_pattern": "Face and upper body breakouts."
+  },
+  {
+    "name": "powdered milk",
+    "category": "Dairy",
+    "severity": "High",
+    "alias_of": null,
+    "visible_name": "Powdered Milk",
+    "description": "Another form of dried milk.",
+    "symptom_pattern": "Face and upper body breakouts."
+  },
+  {
     "name": "acetylated monoglycerides",
     "category": "Dairy",
     "severity": "High",

@@ -1,13 +1,21 @@
+import java.util.Properties
+import java.io.FileInputStream
+
 plugins {
     id("com.android.application")
     id("kotlin-android")
     id("dev.flutter.flutter-gradle-plugin")
 }
 
-android {
-    namespace = "com.example.acnerase2"
-    compileSdk = 35  // ✅ RECOMMENDED for current stable Flutter & ML Kit
+val keystoreProperties = Properties()
+val keystorePropertiesFile = rootProject.file("key.properties")
+if (keystorePropertiesFile.exists()) {
+    keystoreProperties.load(FileInputStream(keystorePropertiesFile))
+}
 
+android {
+    namespace = "com.acnerase.app"
+    compileSdk = 35
     ndkVersion = "27.0.12077973"
 
     compileOptions {
@@ -20,18 +28,27 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.acnerase2"
+        applicationId = "com.acnerase.app"
         minSdk = 21
-        targetSdk = 35  // ✅ RECOMMENDED for release stability
+        targetSdk = 35
         versionCode = flutter.versionCode
         versionName = flutter.versionName
 
-        multiDexEnabled = true  // ✅ Important for large MLKit builds
+        multiDexEnabled = true
+    }
+
+    signingConfigs {
+        create("release") {
+            storeFile = file(keystoreProperties["storeFile"] as String)
+            storePassword = keystoreProperties["storePassword"] as String
+            keyAlias = keystoreProperties["keyAlias"] as String
+            keyPassword = keystoreProperties["keyPassword"] as String
+        }
     }
 
     buildTypes {
-        release {
-            signingConfig = signingConfigs.getByName("debug")
+        getByName("release") {
+            signingConfig = signingConfigs.getByName("release")
             isMinifyEnabled = true
             isShrinkResources = true
             proguardFiles(
@@ -47,8 +64,7 @@ flutter {
 }
 
 dependencies {
-    implementation("androidx.multidex:multidex:2.0.1")  // ✅ Ensure this is present
+    implementation("androidx.multidex:multidex:2.0.1")
 }
-
 
 

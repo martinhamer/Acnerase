@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Acnerase2"
+rootProject.name = "Acnerase"
 include(":app")
  

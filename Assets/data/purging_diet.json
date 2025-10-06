@@ -1,0 +1,83 @@
+{
+  "introduction": "This 7-day meal plan is designed to fully eliminate all acne-triggering ingredients, including wheat, dairy, beef, and 184 common triggers. It helps users reset their system and see visible skin improvements before reintroducing any foods.",
+  "days": [
+    {
+      "day": "Day 1",
+      "meals": [
+        "Breakfast: Quinoa Bowl with banana, blueberries, sunflower seed butter, flaxseed.",
+        "Snack 1: Apple + pumpkin seeds.",
+        "Lunch: Grilled salmon salad with greens, avocado, cucumber.",
+        "Snack 2: Carrot & zucchini with hummus.",
+        "Dinner: Lentil & sweet potato stew.",
+        "Snack 3: Banana + tahini."
+      ]
+    },
+    {
+      "day": "Day 2",
+      "meals": [
+        "Breakfast: Chia pudding with coconut milk, raspberries, and kiwi.",
+        "Snack 1: Almonds + pear.",
+        "Lunch: Leftover salmon with brown rice and broccoli.",
+        "Snack 2: Bell peppers + guacamole.",
+        "Dinner: Baked chicken thighs with roasted carrots and parsnips.",
+        "Snack 3: Mango blended with coconut yogurt."
+      ]
+    },
+    {
+      "day": "Day 3",
+      "meals": [
+        "Breakfast: Smoothie with spinach, berries, avocado, pea protein, almond milk.",
+        "Snack 1: Rice cakes + sunflower seed butter.",
+        "Lunch: Tuna lettuce wraps with cucumber and olives.",
+        "Snack 2: Cucumber slices + seaweed snacks.",
+        "Dinner: Stir-fried tofu with bok choy and cauliflower rice.",
+        "Snack 3: Baked apple with cinnamon and coconut flakes."
+      ]
+    },
+    {
+      "day": "Day 4",
+      "meals": [
+        "Breakfast: Sweet potato hash with spinach and poached egg or chickpea tofu.",
+        "Snack 1: Celery + sunflower butter.",
+        "Lunch: Turkey burger (no bun) with avocado and cabbage slaw.",
+        "Snack 2: Cantaloupe + pumpkin seeds.",
+        "Dinner: Stuffed peppers with quinoa and lentils.",
+        "Snack 3: Unsweetened applesauce + cinnamon."
+      ]
+    },
+    {
+      "day": "Day 5",
+      "meals": [
+        "Breakfast: Buckwheat porridge with raisins and coconut milk.",
+        "Snack 1: Orange + walnuts.",
+        "Lunch: Chicken salad with olive oil, grapes, celery, and romaine.",
+        "Snack 2: Cucumber slices + guacamole.",
+        "Dinner: Zucchini noodles with turkey meatballs and tomato basil sauce.",
+        "Snack 3: Frozen grapes or berries."
+      ]
+    },
+    {
+      "day": "Day 6",
+      "meals": [
+        "Breakfast: Green smoothie with kale, avocado, flax, pineapple, pea protein.",
+        "Snack 1: Boiled egg or chickpea egg + berries.",
+        "Lunch: Shrimp quinoa bowl with cucumber and tahini dressing.",
+        "Snack 2: Carrot sticks + hummus.",
+        "Dinner: Butternut squash soup with roasted pumpkin seeds.",
+        "Snack 3: Pear slices + sunflower seed butter."
+      ]
+    },
+    {
+      "day": "Day 7",
+      "meals": [
+        "Breakfast: Coconut yogurt parfait with chia and strawberries.",
+        "Snack 1: Smoothie with flax milk, banana, and kale.",
+        "Lunch: Chickpea and avocado wrap in collard greens.",
+        "Snack 2: Apple slices + cinnamon.",
+        "Dinner: Grilled turkey skewers with sweet potato wedges.",
+        "Snack 3: Dried figs + herbal tea."
+      ]
+    }
+  ],
+  "note": "Stick to this plan strictly for 7 days to give your skin a clean break. Even small amounts of triggering foods can cause breakouts to continue."
+}
