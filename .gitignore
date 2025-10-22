@@ -13,3 +13,6 @@
 .externalNativeBuild
 .cxx
 local.properties
+# Flutter build artifacts
+.dart_tool/
+build/
